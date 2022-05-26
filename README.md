@@ -1,2 +1,2 @@
-# Csstypographycheatsheet
+# typographycheatsheet
 Css typography Cheatsheet
